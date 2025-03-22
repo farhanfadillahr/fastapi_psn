@@ -65,6 +65,4 @@ fastapi run src/main.py --port 8000
 docker compose up
 ```
 
-## Installation & Setup
-
 
